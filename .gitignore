@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+outputs/
+
+*.pt
+*.pth
+
+!docs/assets/
+!docs/assets/*.png
